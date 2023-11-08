@@ -1,0 +1,23 @@
+/*Cores no CSS
+rgb red green blue
+
+Hexadecimal
+#c9c9c9
+*/
+
+body {
+    background: #CC0000;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+h1 {
+    color: #F8F8F8;
+    font-size: 37px;
+    font-weight: bolder;
+}

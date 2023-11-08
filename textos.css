@@ -1,0 +1,32 @@
+body {
+    background: #000;
+}
+
+h1 {
+    color: #cecece;
+    font-size: 74px;
+    font-weight: lighter;
+    font-family: 'Roboto', sans-serif;
+    font-style: italic;
+    text-shadow: 10px 10px 10px #000fff;
+}
+
+p {
+    color: #7e7e;
+    font-size: 37px;
+    font-weight: lighter;
+    font-family: 'Roboto', sans-serif;
+    line-height: 50px;
+    letter-spacing: 7px;
+    word-spacing: 7px;
+    text-align: justify;
+}
+
+.texto {
+    color: #ffffff;
+    font-size: 37px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    text-transform: uppercase; /* uppercase todas as letras em maiusculo lowercase tudo em minusculo, capitalize somente a primeira letra em maiusculo*/
+    text-decoration: underline;
+}

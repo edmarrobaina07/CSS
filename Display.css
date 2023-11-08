@@ -1,0 +1,16 @@
+/*block inline inline-block*/
+
+.box {
+    background: #ff1797;
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+}
+
+.box-2 {
+    background: #cc9717;
+}
+
+.box-3 {
+    background: #00ce87;
+}

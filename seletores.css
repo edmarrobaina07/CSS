@@ -1,0 +1,24 @@
+#titulo {
+    color: #c9c9c9;
+}
+
+#paragrafo {
+    color: #28a799;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.texto {
+    color: #053731;
+}
+
+.botao {
+    background: #28a799;
+    color: #fff;
+    border: none;
+    border-radius: 7px;
+    font-size: 27px;
+    cursor: help;
+}
+
+/* seletores css são as class e id colocado no html para estilizar*/
